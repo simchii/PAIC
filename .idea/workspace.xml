@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf5ecfdb-9a0e-4906-9cb8-863f9a5e824f" name="Changes" comment="lab 1">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Baloane.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Baloane1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/BlackColourWhite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/IttenWheel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Lab II - Spatii de culoare - part 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Lab II - Spatii de culoare - part 2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/hsv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab-fizic/1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lena.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/subesantionare.png" afterDir="false" />
+    <list default="true" id="bf5ecfdb-9a0e-4906-9cb8-863f9a5e824f" name="Changes" comment="lab 2">
+      <change afterPath="$PROJECT_DIR$/lab3/lab-fizic/1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/lena.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +53,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/simon/PycharmProjects/PAIC/lab2",
+    "last_opened_file_path": "C:/Users/simon/PycharmProjects/PAIC",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,8 +65,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\simon\PycharmProjects\PAIC\lab2" />
       <recent name="C:\Users\simon\PycharmProjects\PAIC" />
+      <recent name="C:\Users\simon\PycharmProjects\PAIC\lab2" />
       <recent name="C:\Users\simon\PycharmProjects\uni - Copy" />
       <recent name="C:\Users\simon\PycharmProjects\uni\Bioinformatics\Lab14" />
       <recent name="C:\Users\simon\PycharmProjects\uni\Artificial_Intelligence\HW3" />
@@ -316,7 +304,8 @@
       <workItem from="1716570038140" duration="1889000" />
       <workItem from="1728405440874" duration="1800000" />
       <workItem from="1728505458229" duration="302000" />
-      <workItem from="1729010077198" duration="3226000" />
+      <workItem from="1729010077198" duration="4716000" />
+      <workItem from="1729615139587" duration="5833000" />
     </task>
     <task id="LOCAL-00001" summary="lab 1">
       <option name="closed" value="true" />
@@ -326,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728505649465</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lab 2">
+      <option name="closed" value="true" />
+      <created>1729014804811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729014804811</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +332,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="lab 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 1" />
+    <MESSAGE value="lab 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/uni$L8.coverage" NAME="L8 Coverage Results" MODIFIED="1700670214349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics/Lab8" />
