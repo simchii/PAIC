@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf5ecfdb-9a0e-4906-9cb8-863f9a5e824f" name="Changes" comment="lab 3">
-      <change afterPath="$PROJECT_DIR$/lab4/Adaptive Histogram Equalization and Its Variations.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/PAIClab4-AHE-CLAHE.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/lab-fizic/1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/lena.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/uneven-face-mic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/uneven-grain.png" afterDir="false" />
+    <list default="true" id="bf5ecfdb-9a0e-4906-9cb8-863f9a5e824f" name="Changes" comment="lab 4: avem tema pentru acasa">
+      <change afterPath="$PROJECT_DIR$/lab5/lab5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/uneven-face-mic.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/lab-fizic/1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/lab-fizic/1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/simon/PycharmProjects/PAIC/lab4",
+    "last_opened_file_path": "C:/Users/simon/PycharmProjects/PAIC/lab5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\simon\PycharmProjects\PAIC\lab5" />
       <recent name="C:\Users\simon\PycharmProjects\PAIC\lab4" />
       <recent name="C:\Users\simon\PycharmProjects\PAIC" />
       <recent name="C:\Users\simon\PycharmProjects\PAIC\lab2" />
       <recent name="C:\Users\simon\PycharmProjects\uni - Copy" />
-      <recent name="C:\Users\simon\PycharmProjects\uni\Bioinformatics\Lab14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\simon\PycharmProjects\uni\Artificial_Intelligence\Lab13" />
@@ -247,10 +244,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.L10" />
       <item itemvalue="Python.L13" />
       <item itemvalue="Python.L8" />
       <item itemvalue="Python.L9" />
-      <item itemvalue="Python.L10" />
       <item itemvalue="Python.Lab8" />
     </list>
     <recent_temporary>
@@ -310,7 +307,9 @@
       <workItem from="1728505458229" duration="302000" />
       <workItem from="1729010077198" duration="4716000" />
       <workItem from="1729615139587" duration="6147000" />
-      <workItem from="1730222756610" duration="5336000" />
+      <workItem from="1730222756610" duration="5467000" />
+      <workItem from="1730665608095" duration="120000" />
+      <workItem from="1730823758057" duration="4858000" />
     </task>
     <task id="LOCAL-00001" summary="lab 1">
       <option name="closed" value="true" />
@@ -336,7 +335,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729621314639</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lab 4: avem tema pentru acasa">
+      <option name="closed" value="true" />
+      <created>1730228150226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730228150226</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lab 4: avem tema pentru acasa">
+      <option name="closed" value="true" />
+      <created>1730228246158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730228246158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +362,8 @@
     <MESSAGE value="lab 1" />
     <MESSAGE value="lab 2" />
     <MESSAGE value="lab 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 3" />
+    <MESSAGE value="lab 4: avem tema pentru acasa" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 4: avem tema pentru acasa" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/uni$L8.coverage" NAME="L8 Coverage Results" MODIFIED="1700670214349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics/Lab8" />
