@@ -4,10 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf5ecfdb-9a0e-4906-9cb8-863f9a5e824f" name="Changes" comment="lab 4: avem tema pentru acasa">
-      <change afterPath="$PROJECT_DIR$/lab5/lab5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/uneven-face-mic.png" afterDir="false" />
+    <list default="true" id="bf5ecfdb-9a0e-4906-9cb8-863f9a5e824f" name="Changes" comment="lab 5">
+      <change afterPath="$PROJECT_DIR$/.idea/PAIC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/proiect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/lab3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/PAICLab-5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/PAICLab-6-ZgomotLiniarMasura.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/lena.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/PAICLab-7-MedianVectorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8/PAICLab-8-AdaptivVectorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8/lena.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lena.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recap.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uneven-grain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/Lab I - Spatii de culoare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/Lab I - Spatii de culoare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/Lab II - Spatii de culoare - part 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/Lab II - Spatii de culoare - part 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/Lab II - Spatii de culoare - part 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab-fizic/1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab-fizic/1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab4/lab-fizic/1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/lab-fizic/1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +69,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.main.executor": "Run",
+    "Python.proiect.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -60,17 +81,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "configurable.group.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\simon\PycharmProjects\PAIC\lab5" />
-      <recent name="C:\Users\simon\PycharmProjects\PAIC\lab4" />
       <recent name="C:\Users\simon\PycharmProjects\PAIC" />
-      <recent name="C:\Users\simon\PycharmProjects\PAIC\lab2" />
-      <recent name="C:\Users\simon\PycharmProjects\uni - Copy" />
+      <recent name="C:\Users\simon\PycharmProjects\PAIC\lab3" />
+      <recent name="C:\Users\simon\PycharmProjects\PAIC\PROIECT_PAIC\images" />
+      <recent name="C:\Users\simon\PycharmProjects\PAIC\lab7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\simon\PycharmProjects\uni\Artificial_Intelligence\Lab13" />
@@ -80,7 +101,7 @@
       <recent name="C:\Users\simona.chirita\PycharmProjects\uni\Bioinformatics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.proiect">
     <configuration name="L10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PAIC" />
       <option name="ENV_FILES" value="" />
@@ -119,29 +140,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics/Lab13/L13.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="L8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PAIC" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics/Lab8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics/Lab8/L8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,21 +240,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="proiect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PAIC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROIECT_PAIC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROIECT_PAIC/proiect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.proiect" />
       <item itemvalue="Python.L10" />
       <item itemvalue="Python.L13" />
-      <item itemvalue="Python.L8" />
       <item itemvalue="Python.L9" />
       <item itemvalue="Python.Lab8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.proiect" />
         <item itemvalue="Python.L13" />
         <item itemvalue="Python.L10" />
         <item itemvalue="Python.L9" />
         <item itemvalue="Python.Lab8" />
-        <item itemvalue="Python.L8" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +327,11 @@
       <workItem from="1729615139587" duration="6147000" />
       <workItem from="1730222756610" duration="5467000" />
       <workItem from="1730665608095" duration="120000" />
-      <workItem from="1730823758057" duration="4858000" />
+      <workItem from="1730823758057" duration="5759000" />
+      <workItem from="1731432833468" duration="5896000" />
+      <workItem from="1732641116442" duration="5475000" />
+      <workItem from="1736675056949" duration="2209000" />
+      <workItem from="1737190099601" duration="16263000" />
     </task>
     <task id="LOCAL-00001" summary="lab 1">
       <option name="closed" value="true" />
@@ -351,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730228246158</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lab 5">
+      <option name="closed" value="true" />
+      <created>1730833832036</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730833832036</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,7 +393,8 @@
     <MESSAGE value="lab 2" />
     <MESSAGE value="lab 3" />
     <MESSAGE value="lab 4: avem tema pentru acasa" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 4: avem tema pentru acasa" />
+    <MESSAGE value="lab 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/uni$L8.coverage" NAME="L8 Coverage Results" MODIFIED="1700670214349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics/Lab8" />
