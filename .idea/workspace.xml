@@ -5,30 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf5ecfdb-9a0e-4906-9cb8-863f9a5e824f" name="Changes" comment="lab 5">
-      <change afterPath="$PROJECT_DIR$/.idea/PAIC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/images/image5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROIECT_PAIC/proiect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/lab3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/PAICLab-5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/PAICLab-6-ZgomotLiniarMasura.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/lena.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/PAICLab-7-MedianVectorial.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/PAICLab-8-AdaptivVectorial.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/lena.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lena.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recap.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uneven-grain.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dovleac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/PAICLab-11-Segmentarea.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/PAICLab-11-laura.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/PAICLab-12-Contur.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/PAICLab-12-laura.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/PAICLab-9-Vertan.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/PAICLab-9.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_colocviu_paic-simona.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_colocviu_paic.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poza1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semnecirculatie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steaguri.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steaguri.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uneven-face-mic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PAIC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PAIC.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab1/Lab I - Spatii de culoare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/Lab I - Spatii de culoare.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Lab II - Spatii de culoare - part 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Lab II - Spatii de culoare - part 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/Lab II - Spatii de culoare - part 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/lab-fizic/1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab-fizic/1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/lab-fizic/1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/lab-fizic/1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/PAICLab-10-White Balance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/PAICLab-10-White Balance.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recap.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,41 +62,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.main.executor": "Run",
-    "Python.proiect.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/simon/PycharmProjects/PAIC/lab5",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.proiect.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pisi/PycharmProjects/PAIC&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pisi\PycharmProjects\PAIC" />
+      <recent name="C:\Users\Pisi\PycharmProjects\PAIC\lab11" />
+      <recent name="C:\Users\Pisi\PycharmProjects\PAIC\lab12" />
+      <recent name="C:\Users\Pisi\PycharmProjects\PAIC\lab9" />
       <recent name="C:\Users\simon\PycharmProjects\PAIC\lab5" />
-      <recent name="C:\Users\simon\PycharmProjects\PAIC" />
-      <recent name="C:\Users\simon\PycharmProjects\PAIC\lab3" />
-      <recent name="C:\Users\simon\PycharmProjects\PAIC\PROIECT_PAIC\images" />
-      <recent name="C:\Users\simon\PycharmProjects\PAIC\lab7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pisi\PycharmProjects\PAIC" />
       <recent name="C:\Users\simon\PycharmProjects\uni\Artificial_Intelligence\Lab13" />
       <recent name="C:\Users\simona.chirita\PycharmProjects\uni\Bioinformatics\Lab2" />
       <recent name="C:\Users\simona.chirita\PycharmProjects\uni\Bioinformatics\Lab1" />
       <recent name="C:\Users\simona.chirita\PycharmProjects\uni\Artificial_Intelligence" />
-      <recent name="C:\Users\simona.chirita\PycharmProjects\uni\Bioinformatics" />
     </key>
   </component>
   <component name="RunManager" selected="Python.proiect">
@@ -245,9 +243,13 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (seweb_project)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROIECT_PAIC" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -261,12 +263,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.proiect" />
       <item itemvalue="Python.L10" />
       <item itemvalue="Python.L13" />
       <item itemvalue="Python.L9" />
       <item itemvalue="Python.Lab8" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.proiect" />
     </list>
     <recent_temporary>
       <list>
@@ -332,6 +334,8 @@
       <workItem from="1732641116442" duration="5475000" />
       <workItem from="1736675056949" duration="2209000" />
       <workItem from="1737190099601" duration="16263000" />
+      <workItem from="1737388253385" duration="1396000" />
+      <workItem from="1737389992189" duration="17254000" />
     </task>
     <task id="LOCAL-00001" summary="lab 1">
       <option name="closed" value="true" />
